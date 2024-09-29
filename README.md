@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Student at DSEU ding B.tech CSE<br>Learning Full-stack devlopment <br>Avid Explorer of Tech & Gaming<br>Trying to learn new thing everyday
+I'm currently Student at DSEU persuing B.tech CSE<br>Learning Full-stack devlopment <br>Avid Explorer of Tech & Gaming<br>Trying to learn new thing everyday
 
 
 ## 🌐 Socials:
